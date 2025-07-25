@@ -1,0 +1,209 @@
+ <div class="prod h-[30rem] w-[20rem] flex flex-col gap-2 justify-end items-center flex-shrink-0">
+              <div class="img-div1 h-[10rem] w-full bg-[#d8e2e2] rounded-t-[40%] flex justify-center items-center">
+                <div class="img h-full w-full relative flex justify-center items-center">
+                  <img class="img1-back w-[100%] absolute -top-32 scale-0" src="prod1 back.png" alt="">
+                  <img class="img1 w-[50%] absolute -top-24" src="img1.png" alt="">
+                </div>
+              </div>
+              <div class="desc h-[8rem] w-full flex flex-col justify-between bg-[#d8e2e2] text-[#474b4b] rounded-b-xl px-2 py-3">
+                <h1 class="leading-none">Experience Amul Crème Rich Bliss.</h1>
+                <h2 class="text-end text-[1.5rem]"><span class="cursor-pointer">Explore Amul Crème Rich <i class="ri-arrow-right-s-line"></i></span></h2>
+              </div>
+            </div>
+
+            <div class="prod h-[30rem] w-[20rem] flex flex-col gap-2 justify-end items-center flex-shrink-0">
+              <div class="img-div2 h-[10rem] w-full bg-[#b9ebc3] rounded-t-[40%] flex justify-center items-center">
+                <div class="img h-full w-full relative flex justify-center items-center">
+                  <img class="img2-back w-[100%] absolute -top-32 scale-0" src="prod2 back.png" alt="">
+                  <img class="img2 w-[40%] absolute -top-28" src="img3.png" alt="">
+                  
+                </div>
+              </div>
+              <div class="desc h-[8rem] w-full flex flex-col justify-between bg-[#b9ebc3] text-[#318843] rounded-b-xl px-2 py-3">
+                <h1>Amul Jumbo Cup Ice Cream</h1>
+                <h2 class="text-end text-[1.5rem]"><span class="cursor-pointer">Explore Jumbo Cups <i class="ri-arrow-right-s-line"></i></span></h2>
+              </div>
+              
+            </div>
+
+            <div class="prod h-[30rem] w-[20rem] flex flex-col gap-2 justify-end items-center flex-shrink-0">
+              <div class="img-div3 h-[10rem] w-full bg-[#daebb1] rounded-t-[40%] flex justify-center items-center">
+                <div class="img h-full w-full relative flex justify-center items-center">
+                  <img class="img3-back w-[100%] absolute -top-44 scale-0" src="prod3 back.png" alt="">
+                  <img class="img3 w-[35%] absolute -top-28" src="img4.png" alt="">
+                </div>
+              </div>
+              <div class="desc h-[8rem] w-full flex flex-col justify-between bg-[#daebb1] text-[#6b842e] rounded-b-xl px-2 py-3">
+                <h1>Amul Tricone Bliss</h1>
+                <h2 class="text-end text-[1.5rem]"><span class="cursor-pointer">Explore Tricones <i class="ri-arrow-right-s-line"></i></span></h2>
+              </div>
+              
+            </div>
+
+            <div class="prod h-[30rem] w-[20rem] flex flex-col gap-2 justify-end items-center flex-shrink-0">
+              <div class="img-div4 h-[10rem] w-full bg-[#f5e0ad] rounded-t-[40%] flex justify-center items-center">
+                <div class="img h-full w-full relative flex justify-center items-center">
+                  <img class="img4-back w-[100%] absolute -top-32 scale-0" src="prod4 back.png" alt="">
+                  <img class="img4 w-[60%] absolute -top-28" src="img2.png" alt="">
+                </div>
+              </div>
+              <div class="desc h-[8rem] w-full flex flex-col justify-between bg-[#f5e0ad] text-[#83692d] rounded-b-xl px-2 py-3">
+                <h1>Amul Family Pack Ice Cream</h1>
+                <h2 class="text-end text-[1.5rem]"><span class="cursor-pointer">Explore Family Pack <i class="ri-arrow-right-s-line"></i></span></h2>
+              </div>
+              
+            </div>
+
+
+
+            <div class="prod h-[30rem] w-[20rem] flex flex-col gap-2 justify-end items-center flex-shrink-0">
+              <div class="img-div5 h-[10rem] w-full bg-[#eedebf] rounded-t-[40%] flex justify-center items-center">
+                <div class="img h-full w-full relative flex justify-center items-center">
+                  <img class="img5-back w-[100%] absolute -top-32 scale-0" src="prod5 back.png" alt="">
+                  <img class="img5 w-[55%] absolute -top-28" src="img5.png" alt="">
+                </div>
+              </div>
+              <div class="desc h-[8rem] w-full flex flex-col justify-between bg-[#eedebf] text-[#87692c] rounded-b-xl px-2 py-3">
+                <h1 class="leading-none">Indulge in creamy delight with Amul Cups.</h1>
+                <h2 class="text-end text-[1.5rem]"><span class="cursor-pointer">Explore Cups <i class="ri-arrow-right-s-line"></i></span></h2>
+              </div>
+            </div>
+
+            <div class="prod h-[30rem] w-[20rem] flex flex-col gap-2 justify-end items-center flex-shrink-0">
+              <div class="img-div6 h-[10rem] w-full bg-[#fcc1c6] rounded-t-[40%] flex justify-center items-center">
+                <div class="img h-full w-full relative flex justify-center items-center">
+                  <img class="img6-back w-[100%] absolute -top-32 scale-0" src="prod6 back.png" alt="">
+                  <img class="img6 w-[50%] absolute -top-28" src="img6.png" alt="">
+                  
+                </div>
+              </div>
+              <div class="desc h-[8rem] w-full flex flex-col justify-between bg-[#fcc1c6] text-[#9b3a44] rounded-b-xl px-2 py-3">
+                <h1>Greek Frozen Yoghurt</h1>
+                <h2 class="text-end text-[1.5rem]"><span class="cursor-pointer">Explore Yoghurt <i class="ri-arrow-right-s-line"></i></span></h2>
+              </div>
+              
+            </div>
+
+            <div class="prod h-[30rem] w-[20rem] flex flex-col gap-2 justify-end items-center flex-shrink-0">
+              <div class="img-div7 h-[10rem] w-full bg-[#dbd4cd] rounded-t-[40%] flex justify-center items-center">
+                <div class="img h-full w-full relative flex justify-center items-center">
+                  <img class="img7-back w-[100%] absolute -top-36 scale-0" src="prod7 back.png" alt="">
+                  <img class="img7 w-[70%] absolute -top-28" src="img7.png" alt="">
+                </div>
+              </div>
+              <div class="desc h-[8rem] w-full flex flex-col justify-between bg-[#dbd4cd] text-[#5c5751] rounded-b-xl px-2 py-3">
+                <h1>Cake Magic Neapolitan</h1>
+                <h2 class="text-end text-[1.5rem]"><span class="cursor-pointer">Explore Neapolitan <i class="ri-arrow-right-s-line"></i></span></h2>
+              </div>
+              
+            </div>
+
+            <div class="prod h-[30rem] w-[20rem] flex flex-col gap-2 justify-end items-center flex-shrink-0">
+              <div class="img-div8 h-[10rem] w-full bg-[#fabea2] rounded-t-[40%] flex justify-center items-center">
+                <div class="img h-full w-full relative flex justify-center items-center">
+                  <img class="img8-back w-[100%] absolute -top-32 scale-0" src="prod8 back.png" alt="">
+                  <img class="img8 w-[40%] absolute -top-28" src="img8.png" alt="">
+                </div>
+              </div>
+              <div class="desc h-[8rem] w-full flex flex-col justify-between bg-[#fabea2] text-[#78462f] rounded-b-xl px-2 py-3">
+                <h1>Chocolate Sundae</h1>
+                <h2 class="text-end text-[1.5rem]"><span class="cursor-pointer">Explore Sundae <i class="ri-arrow-right-s-line"></i></span></h2>
+              </div>
+              
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div class="news1 h-[35rem] w-[40rem] flex flex-col gap-3">
+            <div class="news-img h-[20rem] md:h-[22rem] w-[20rem] md:w-[40rem] rounded-[1.5rem] mt-10 overflow-hidden">
+              <img class="w-full scale-[2] mt-14 md:mt-0 md:scale-[1] object-contain" src="https://media.licdn.com/dms/image/D5612AQHKqmpW6xlyqg/article-cover_image-shrink_720_1280/0/1711632436166?e=2147483647&v=beta&t=_P7D9YsIRS-TGnMxAJgNh4TQhWVAWySuVXoXc7s2m2M" alt="">
+            </div>
+            <div class="news-desc">
+              <h1 class="text-[4vw] sm:text-[3vw] md:text-[2vw] lg:text-[1.5vw] leading-7 md:leading-8 tracking-tight font-bold text-[#000] p-2">Amul launches Fresh Milk in the United States of America</h1>
+            </div>
+          </div>
+          
+          <div class="news1 h-[35rem] w-[20rem] flex flex-col gap-3">
+            <div class="news-img h-[20rem] w-[20rem] rounded-[1.5rem] mt-10 overflow-hidden">
+              <img class="w-full scale-[2] mt-14 object-cover" src="https://media.licdn.com/dms/image/D5612AQHKqmpW6xlyqg/article-cover_image-shrink_720_1280/0/1711632436166?e=2147483647&v=beta&t=_P7D9YsIRS-TGnMxAJgNh4TQhWVAWySuVXoXc7s2m2M" alt="">
+            </div>
+            <div class="news-desc">
+              <h1 class="text-[4vw] sm:text-[3vw] md:text-[2vw] lg:text-[1.5vw] leading-7 md:leading-8 tracking-tight font-bold text-[#364717] p-2">Amul launches Fresh Milk in the United States of America</h1>
+            </div>
+          </div>
+
+          <div class="news1 h-[35rem] w-[40rem] flex flex-col gap-3">
+            <div class="news-img h-[20rem] md:h-[22rem] w-[20rem] md:w-[40rem] rounded-[1.5rem] mt-10 overflow-hidden">
+              <img class="w-full scale-[2] mt-14 md:mt-0 md:scale-[1] object-contain" src="https://media.licdn.com/dms/image/D5612AQHKqmpW6xlyqg/article-cover_image-shrink_720_1280/0/1711632436166?e=2147483647&v=beta&t=_P7D9YsIRS-TGnMxAJgNh4TQhWVAWySuVXoXc7s2m2M" alt="">
+            </div>
+            <div class="news-desc">
+              <h1 class="text-[4vw] sm:text-[3vw] md:text-[2vw] lg:text-[1.5vw] leading-7 md:leading-8 tracking-tight font-bold text-[#000] p-2">Amul launches Fresh Milk in the United States of America</h1>
+            </div>
+          </div>
+          
+          <div class="news1 h-[35rem] w-[20rem] flex flex-col gap-3">
+            <div class="news-img h-[20rem] w-[20rem] rounded-[1.5rem] mt-10 overflow-hidden">
+              <img class="w-full scale-[2] mt-14 object-cover" src="https://media.licdn.com/dms/image/D5612AQHKqmpW6xlyqg/article-cover_image-shrink_720_1280/0/1711632436166?e=2147483647&v=beta&t=_P7D9YsIRS-TGnMxAJgNh4TQhWVAWySuVXoXc7s2m2M" alt="">
+            </div>
+            <div class="news-desc">
+              <h1 class="text-[4vw] sm:text-[3vw] md:text-[2vw] lg:text-[1.5vw] leading-7 md:leading-8 tracking-tight font-bold text-[#364717] p-2">Amul launches Fresh Milk in the United States of America</h1>
+            </div>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div class="news1 h-[35rem] w-[20rem] md:w-[40rem] flex flex-col gap-3">
+                <div class="news-img h-[20rem] md:h-[22rem] w-[20rem] md:w-[40rem] rounded-[1.5rem] mt-10 overflow-hidden">
+                  <img class="w-full scale-[2] mt-14 md:mt-0 md:scale-[1] object-contain" src="https://media.licdn.com/dms/image/D5612AQHKqmpW6xlyqg/article-cover_image-shrink_720_1280/0/1711632436166?e=2147483647&v=beta&t=_P7D9YsIRS-TGnMxAJgNh4TQhWVAWySuVXoXc7s2m2M" alt="">
+                </div>
+                <div class="news-desc h-[15rem] w-[20rem] md:w-[40rem]">
+                  <h1 class="text-[4vw] sm:text-[3vw] md:text-[2vw] lg:text-[1.5vw] leading-7 md:leading-8 tracking-tight font-bold text-[#000] p-2">Amul launches Fresh Milk in the United States of America</h1>
+                </div>
+              </div>
+              
+              <div class="news1 h-[35rem] w-[20rem] flex flex-col gap-3">
+                <div class="news-img h-[20rem] w-[20rem] rounded-[1.5rem] mt-10 overflow-hidden">
+                  <img class="w-full scale-[2] mt-14 object-cover" src="https://media.licdn.com/dms/image/D5612AQHKqmpW6xlyqg/article-cover_image-shrink_720_1280/0/1711632436166?e=2147483647&v=beta&t=_P7D9YsIRS-TGnMxAJgNh4TQhWVAWySuVXoXc7s2m2M" alt="">
+                </div>
+                <div class="news-desc h-[15rem] w-[20rem]">
+                  <h1 class="text-[4vw] sm:text-[3vw] md:text-[2vw] lg:text-[1.5vw] leading-7 md:leading-8 tracking-tight font-bold text-[#364717] p-2">Amul launches Fresh Milk in the United States of America</h1>
+                </div>
+              </div>
+  
+              <div class="news1 h-[35rem] w-[40rem] flex flex-col gap-3">
+                <div class="news-img h-[20rem] md:h-[22rem] w-[20rem] md:w-[40rem] rounded-[1.5rem] mt-10 overflow-hidden">
+                  <img class="w-full scale-[2] mt-14 md:mt-0 md:scale-[1] object-contain" src="https://media.licdn.com/dms/image/D5612AQHKqmpW6xlyqg/article-cover_image-shrink_720_1280/0/1711632436166?e=2147483647&v=beta&t=_P7D9YsIRS-TGnMxAJgNh4TQhWVAWySuVXoXc7s2m2M" alt="">
+                </div>
+                <div class="news-desc">
+                  <h1 class="text-[4vw] sm:text-[3vw] md:text-[2vw] lg:text-[1.5vw] leading-7 md:leading-8 tracking-tight font-bold text-[#000] p-2">Amul launches Fresh Milk in the United States of America</h1>
+                </div>
+              </div>
+              
+              <div class="news1 h-[35rem] w-[20rem] flex flex-col gap-3">
+                <div class="news-img h-[20rem] w-[20rem] rounded-[1.5rem] mt-10 overflow-hidden">
+                  <img class="w-full scale-[2] mt-14 object-cover" src="https://media.licdn.com/dms/image/D5612AQHKqmpW6xlyqg/article-cover_image-shrink_720_1280/0/1711632436166?e=2147483647&v=beta&t=_P7D9YsIRS-TGnMxAJgNh4TQhWVAWySuVXoXc7s2m2M" alt="">
+                </div>
+                <div class="news-desc">
+                  <h1 class="text-[4vw] sm:text-[3vw] md:text-[2vw] lg:text-[1.5vw] leading-7 md:leading-8 tracking-tight font-bold text-[#364717] p-2">Amul launches Fresh Milk in the United States of America</h1>
+                </div>
+              </div>
